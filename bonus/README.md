@@ -1,4 +1,4 @@
-group menber
+Group Member
 1 Tophik Mohammed
 2 Feven Girma
 3 Ebrahim Belayneh
